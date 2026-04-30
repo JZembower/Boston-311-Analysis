@@ -3,4 +3,11 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+tensorflow
 contextily
+scipy
+ipykernel
+jinja2
+xgboost
+pytorch-tabnet
+catboost
